@@ -21,7 +21,7 @@ I'm Hlolelo Rampete, a technology enthusiast with a passion for problem-solving 
 ### Lead Tracking Chrome Extension
 - **Description:** A Chrome Extension designed to help Sales Representatives and small business owners efficiently collect and manage leads.
 - **Technologies Used:** HTML, CSS, JavaScript
-- **Repository:** [Lead Tracking Chrome Extension]([(https://github.com/HloleloRampete/Lead-Generating-Tool)](https://github.com/HloleloRampete/Lead-Generating-Tool))
+- **Repository:** [Lead Tracking Chrome Extension](https://github.com/HloleloRampete/Lead-Generating-Tool)
 
 ### Profile Website
 - **Description:** A personal portfolio website showcasing my projects, skills, and experiences.
