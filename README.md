@@ -1,31 +1,31 @@
-### Hi there 👋
+# HloleloRampete's Profile
 
-<!--
-**HloleloRampete/HloleloRampete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a quick overview of me:
 
-Here are some ideas to get you started:
+## About Me
 
-Write an introduction about me 
+I'm Hlolelo Rampete, a technology enthusiast with a passion for problem-solving and innovation. With a background in sales and a keen interest in software development, I'm constantly seeking new ways to leverage technology to improve business processes and drive growth. Outside of coding, I enjoy exploring nature, gardening, and experimenting with new recipes in the kitchen.
 
+## Summary
 
-![Banner](https://media.licdn.com/dms/image/D4D35AQEiBuJI54zOng/profile-framedphoto-shrink_400_400/0/1709627131031?e=1710234000&v=beta&t=src_zF13U0TNxiwWLAM8HlA9tH3Jn7117JH4ufCHnfA)
+- 🔭 **Currently Working On:** Lead tracking Chrome Extension
+- 🌱 **Currently Learning:** Agile Software Engineering 
+- 👯 **Looking to Collaborate On:** Social Media data harvesting
+- 🤔 **Seeking Help With:** Google, Meta, and Amazon
+- 📫 **How to Reach Me:** Follow me on [GitHub](https://github.com/HloleloRampete) and connect with me on [LinkedIn](https://www.linkedin.com/in/hlolelo-rampete-641271130/)
+- 😄 **Pronouns:** He/him
+- ⚡ **Fun Fact:** "Planting your own food is like printing money"
 
-- 🔭 I’m currently working on a leads tracking Chrome Extention
-- 🌱 I’m currently learning Agile Software Engineering 
-- 👯 I’m looking to collaborate on Social Media data harvesting
-- 🤔 I’m looking for help with Google, Meta and Amazon.
-- 💬 Ask me about ...
-- 📫 How to reach me: follow me on GitHub @HloleloRampete and on LinkedIn @ https://www.linkedin.com/in/hlolelo-rampete-641271130/
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: "Planting your own food is like printing money"
--->
+## Showcase Projects
 
+### Lead Tracking Chrome Extension
+- **Description:** A Chrome Extension designed to help Sales Representatives and small business owners efficiently collect and manage leads.
+- **Technologies Used:** HTML, CSS, JavaScript
+- **Repository:** [Lead Tracking Chrome Extension](https://github.com/HloleloRampete/lead-tracking-extension)
 
+### Profile Website
+- **Description:** A personal portfolio website showcasing my projects, skills, and experiences.
+- **Technologies Used:** HTML, CSS, JavaScript, Bootstrap
+- **Repository:** [Profile Website](https://github.com/HloleloRampete/profile-website)
 
-Add a Profile Banner or Image (optional): You can add images using Markdown:
-scssCopy code
-![Banner](URL_of_your_image)
-List Your Skills and Technologies: Use bullet points or emojis to make it visually appealing.
-Showcase Your Projects: Highlight key projects you've worked on. Include a brief description, the technologies used, and links to the repositories.
-Add Social Links: Include links to your LinkedIn, personal website, or other relevant platforms.
-Contact Information: Provide a way for visitors to reach you, like your professional email.
+Feel free to explore my repositories for more projects and contributions! If you're interested in collaborating or have any questions, don't hesitate to reach out. Let's connect and create something amazing together!
