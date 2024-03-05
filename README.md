@@ -25,7 +25,7 @@ I'm Hlolelo Rampete, a technology enthusiast with a passion for problem-solving 
 
 ### Profile Website
 - **Description:** A personal portfolio website showcasing my projects, skills, and experiences.
-- **Technologies Used:** HTML, CSS, JavaScript, Bootstrap
+- **Technologies Used:** HTML, CSS, JavaScript, Tailwind
 - **Repository:** [Profile Website](https://github.com/HloleloRampete/HLORAM373_BCL2401_GroupB_Hlolelo-Rampete_SDF11-)
 
 Feel free to explore my repositories for more projects and contributions! If you're interested in collaborating or have any questions, don't hesitate to reach out. Let's connect and create something amazing together!
